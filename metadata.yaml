@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '4732'
     url: http://www.gutenberg.org/2009/agents/4732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14879#The-Hilltop-Boys-on-Lost-Island
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-02-02'
 gutenberg_type: Text
